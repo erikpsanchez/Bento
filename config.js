@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Erik!',
 	imageBackground: true,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Notion',
-			icon: 'trello',
+			icon: 'clipboard-list',
 			link: 'https://www.notion.so/',
 		},
 		{
@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Feedly',
-			icon: 'glasses',
+			icon: 'newspaper',
 			link: 'https://feedly.com/',
 		},
 		{
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
+					name: 'Favorites',
+					link: 'https://open.spotify.com/playlist/5Ak74ZZHHr3RCHwz3NsZm7?si=e8c32f3b49d94bba',
+				},
+				{
 					name: 'Folk',
 					link: 'https://open.spotify.com/playlist/6ufxqPqmbCIrIafCjuIDmf?si=0a9dfd19a6d74ecf',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'EDM',
+					link: 'https://open.spotify.com/playlist/6RlgGD6kLVtTJqwK4aQbxk?si=53117ee4ffc640e9',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Alternative/Indie',
+					link: 'https://open.spotify.com/playlist/7JaLHSSKq9LD2TwSGBETQF?si=12ca58d4f39443ef',
 				},
 			],
 		},
@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://www.facebook.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: '...',
+					link: '*',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: '...',
+					link: '*',
 				},
 			],
 		},
@@ -227,11 +227,4 @@ const CONFIG = {
 			],
 		},
 	],
-
-	 // Weather
-	 weatherKey: 'dcbe10e4806958baf826c44faf417cd9',
-	 weatherIcons: 'OneDark',
-	 weatherUnit: 'C',
-	 weatherLatitude: '21.142950',
-	 weatherLongitude: '-88.151900',
 };
