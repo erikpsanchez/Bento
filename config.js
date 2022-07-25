@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://www.facebook.com/',
 				},
 				{
-					name: '...',
-					link: '*',
+					name: 'Instagram',
+					link: 'https://www.instagram.com',
 				},
 				{
-					name: '...',
-					link: '*',
+					name: 'Twitter',
+					link: 'https://www.twitter.com',
 				},
 			],
 		},
