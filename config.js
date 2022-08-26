@@ -11,13 +11,13 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Erik!',
+	name: 'Erik :D',
 	imageBackground: true,
 	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning',
+	greetingMorning: 'Good morning, ',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
 	greetingNight: 'Go to Sleep',
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Notion',
-			icon: 'clipboard-list',
-			link: 'https://www.notion.so/',
+			name: 'Feedly',
+			icon: 'newspaper',
+			link: 'https://feedly.com/',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Feedly',
-			icon: 'newspaper',
-			link: 'https://feedly.com/',
+			name: 'UADY',
+			icon: 'graduation-pack',
+			link: 'https://es.uadyvirtual.uady.mx/my/',
 		},
 		{
 			id: '6',
