@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'UADY',
-			icon: 'graduation-pack',
+			icon: 'graduation-cap',
 			link: 'https://es.uadyvirtual.uady.mx/my/',
 		},
 		{
