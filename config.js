@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.google.com/',
+			name: 'Figma',
+			icon: 'figma',
+			link: 'https://www.figma.com/',
 		},
 		{
 			id: '3',
